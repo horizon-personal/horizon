@@ -2,7 +2,7 @@
 // (les données restent dans le stockage local du navigateur, jamais dans ce cache).
 // Sur GitHub Pages, plusieurs sites peuvent partager la même origine : Horizon ne touche qu'à ses propres caches.
 const PREFIX = 'horizon-';
-const CACHE = PREFIX + '0bf51b5e76';
+const CACHE = PREFIX + 'e4e187e125';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './favicon-64.png'];
 const NETWORK_TIMEOUT_MS = 3500;
 
